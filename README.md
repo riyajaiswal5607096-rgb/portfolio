@@ -15,7 +15,7 @@ This is my personal portfolio website built to showcase my skills, projects, and
 - JavaScript
 
 ## 🌐 Live Demo
-https://your-netlify-link.netlify.app
+portfolio-7fbea7.netlify.app
 
 ## 📂 Projects Showcased
 - AI Spend Analyzer
